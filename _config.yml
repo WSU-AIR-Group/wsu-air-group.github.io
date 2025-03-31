@@ -1,0 +1,8 @@
+title: AIR Group
+logo: assets/images/air_logo.jpg
+description: The Artificial Intelligence (AI) Research Group -- AIR Group -- for Wright State University
+show_downloads: false
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+    - jekyll-remote-theme
